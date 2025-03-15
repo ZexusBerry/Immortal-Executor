@@ -1,12 +1,12 @@
 # Immortal-Executor
-Good roblox executor in core Xeno.
+Good roblox executor in core RBX-RON.
 ------------------------------------
-Core : Xeno
+Core : RBX-RON
 ------------------------------------
-UNC : 80                                                                                                                                                                                                                                                
-sUNC : 65
+UNC : 98                                                                                                                                                                                                                                                
+sUNC : 99
 ------------------------------------
 Key System : ❌
 ------------------------------------
-Protection : 8 lvl
+Protection : 7 lvl
 ------------------------------------
