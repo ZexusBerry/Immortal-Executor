@@ -1,12 +1,12 @@
 # Immortal-Executor
-Good roblox executor in core RBX-RON.
+Good roblox executor in core Atlantis.
 ------------------------------------
-Core : RBX-RON
+Core : Atlantis
 ------------------------------------
 UNC : 98                                                                                                                                                                                                                                                
 sUNC : 99
 ------------------------------------
 Key System : ❌
 ------------------------------------
-Protection : 7 lvl
+Protection : 8 lvl
 ------------------------------------
